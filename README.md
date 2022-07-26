@@ -1,6 +1,6 @@
 ## Eu sou o Arthur Fernandes e atualmente estou estudando Engenharia de Software :)
 
-<div align="">
+<div align="center">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tutuhzin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
