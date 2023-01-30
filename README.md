@@ -1,4 +1,4 @@
-### Hi, I'm Arthur Fernandes studant in Software Engennier in UnB - University of Brasilia
+### Hi, I'm Arthur Fernandes software engineering students in UnB - University of Brasilia
 
 
 ![Arthur Fernandes GitHub stats](https://github-readme-stats.vercel.app/api?username=tutuhzin&show_icons=true&theme=tokyonight)
