@@ -17,12 +17,10 @@
 
 ##
  
- 
  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tutuhzinn/)
  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-fernandes-63671a221/)
 
-</div><br/>
-
+</div>
 Sou apaixonado por tecnologia. <br>
 Meu email pessoal é af78581@gmail.com <br>
 Estudante de Engenharia de Software na UnB - Universidade de Brasília
