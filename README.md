@@ -1,5 +1,4 @@
 ![Arthur Fernandes](https://readme-typing-svg.herokuapp.com?font=Inter&color=3A9CDF&size=30&weight=700&lines=Hi,+My+name+is+Arthur+Fernandes;Software+engineering+students)
-###  students in UnB - University of Brasilia
 
 💟 Sou apaixonado por tecnologia. <br>
 📧 Meu email pessoal é arthurfsjesus@gmail.com<br>
