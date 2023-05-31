@@ -22,20 +22,8 @@
   </a>
 </div>
 
-
-[![JubayerRiyad's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=tutuhzin&bg_color=0d1117&color=c9c9c9&line=4c779e&point=a8e5ff&area=true&hide_border=true)](https://github.com/tutuhzin/github-readme-activity-graph)
-
-<br>
-</div>
-</div>
-
-<br/>
-
-
 <h2 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35px">&nbsp; Views and Followers :eyes:</h2>
-
 <p align="center">
-    
 <a href="https://github.com/tutuhzin/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=tutuhzin">
 </a>
@@ -43,6 +31,5 @@
         <img src="https://img.shields.io/github/followers/tutuhzin?label=Followers&style=social" alt="GitHub Badge">
     </a>
 </p>
-
 <p align="center"><img src="https://profile-counter.glitch.me/github-profile-views-counter/count.svg"  alt="roland :: tutuhzin Visitor's Count" /></p> 
 
